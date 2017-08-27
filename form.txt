@@ -14,3 +14,26 @@ Types of Independent Studies:
 · Syllabus reflects workload of a standard course in the department or program.
 · Examinations or papers equivalent to a standard course.
 · Regular interaction with the faculty supervisor. Weekly meetings are the norm.
+
+
+Course Title (32 characters maximum)
+>
+
+
+Description of the course (please indicate if this a group independent study)
+>
+
+
+Readings and Source Materials. (For Research Assistantships, describe the research project.)
+>
+
+
+
+Describe the specific work to be completed.
+>
+
+
+
+For the instructor:
+Specify the grading type (Letter- grade, P/NC) and criteria for course grade.
+>
