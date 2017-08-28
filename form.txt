@@ -17,20 +17,19 @@ Types of Independent Studies:
 
 
 Course Title (32 characters maximum)
->
+> Enhancing AntiTuna Data-Sharing
 
 
 Description of the course (please indicate if this a group independent study)
->
+> This course is an extended research project from a summer REU at USC. I will be working with the chrome plugin AuntieTuna built by a USC graduate student. AuntieTuna is anti-phishing plugin that allows users to build a personalized list of sites they trust for customized protection against targeted attacks. This course will focus on enhancing AuntieTuna's User Interface and data-sharing process.
 
 
 Readings and Source Materials. (For Research Assistantships, describe the research project.)
->
-
+> I will be working on enhancing the current data-sharing process in AuntieTuna by creating a custom website where users can access data from other user's and import the data into their own database. Also, I will be adding features to the plugin.
 
 
 Describe the specific work to be completed.
->
+> 
 
 
 
