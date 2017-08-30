@@ -29,8 +29,7 @@ Readings and Source Materials. (For Research Assistantships, describe the resear
 
 
 Describe the specific work to be completed.
-> 
-
+> I will mostly be working on improving data-sharing process between users. This will require me to build a custom website that will store all users’ data for easy access and import ability. While this is the main goal, I will also be working on plugin features such as giving users the ability to enable/disable the sites on their list. 
 
 
 For the instructor:
